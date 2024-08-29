@@ -1,0 +1,15 @@
+Create your VE
+    python3 -m venv myvenv
+Activate your VE
+    myvenv/scripts/activate
+Install 3rd party libraries
+    pip3 install matplotlib
+
+Difference between source and version control
+    version control - talking about project as a whole (website - logos, images, documentation, code)
+    source control - talking purely about the developmental aspect of the application (just the code)
+
+Companies can copy code from Git
+These companies then edit parts of their code
+They can have a pull request from the original PM, who can approve it and then add that company's code to the original code on Git
+
